@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Song_Jyun.aternos.me:57315",
+    "ip": "Song_Jyun.aternos.me",
     "port": 57315,
     "version": "",
     "try-creative": false
